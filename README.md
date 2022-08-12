@@ -15,6 +15,10 @@ It is used to push the information (restaurant location, cuisine, dining time, n
 
 Other AWS services used to develop the web application are S3, API Gateway, Cognito. 
 
+![overview](https://user-images.githubusercontent.com/44283896/184456860-271d57d2-1017-4556-9b4c-1258dd39b828.png)
+
+
+
 ## How to Setup
 [AWS-Cloud-Dining-Concierge-Chatbot-Part1-Instructions](AWS-Cloud-Dining-Concierge-Chatbot-Part1-Instructions.pdf)
 
